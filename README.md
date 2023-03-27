@@ -1,1 +1,3 @@
-# game_co_ca_ngua
+# Game_Ca_Ngua-Java-
+Game Cá Ngựa (Java)
+Ấn vào file HorseSea.jar để chạy game.
